@@ -40,8 +40,8 @@ The dashboard focuses on the following key areas:
 
 ##  Files
 
-* `bike_sales_data.csv` → Dataset used for analysis
-* `dashboard.png` → Screenshot of the Excel dashboard
+* `bike sales.csv` → Dataset used for analysis
+* `Bike sales dashboard.png` → Screenshot of the Excel dashboard
 
 ---
 
@@ -55,4 +55,4 @@ The dashboard focuses on the following key areas:
 ---
 
 ##  Dashboard Preview
-![]()
+![](https://github.com/Opez01/Bike-sales-dashboard-Excel-/blob/main/Bike%20sales%20dashboard.png)
