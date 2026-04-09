@@ -40,7 +40,7 @@ The dashboard focuses on the following key areas:
 
 ##  Files
 
-* `bike sales.csv` → Dataset used for analysis
+* `bike sales.xlxs` → Dataset used for analysis
 * `Bike sales dashboard.png` → Screenshot of the Excel dashboard
 
 ---
